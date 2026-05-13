@@ -1,4 +1,4 @@
-# 
+# SQL Server Management Studio for PC | SQL Server Management Studio for Windows custom Plugin: execution-plan-analysis & security-management offers the most advanced SQL Server
 
 
 
